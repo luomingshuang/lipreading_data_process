@@ -7,7 +7,7 @@ Note: these collections will be update in real time.
 ### Papers
 - [awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
 ### Codes
-- [face-alignment](https://github.com/1adrianb/face-alignment): Detect facial landmarks from Python using the world's most accurate face alignment network, capable of detecting points in both 2D and 3D coordinates.
+- [face-alignment](https://github.com/1adrianb/face-alignment): Detect facial landmarks from Python using the world's most accurate face alignment network, capable of detecting points in both 2D and 3D coordinates. I do provide a Colab notebook for this recipe. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UJxb0nJqWaXVSF2Hxp2CEttMw1d5OeSB?usp=sharing)
 - [face_recognition](https://github.com/ageitgey/face_recognition): Recognize and manipulate faces from Python or from the command line with the world's simplest face recognition library.
 - [insightface](https://github.com/deepinsight/insightface): 2D and 3D face analysis project.
 - [SeetaFace2](https://github.com/seetafaceengine/SeetaFace2): SeetaFace 2: open source, full stack face recognization toolkit.
